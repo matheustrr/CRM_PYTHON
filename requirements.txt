@@ -1,0 +1,9 @@
+Django==3.2.7
+djangorestframework==3.12.4
+mysqlclient==2.0.2
+celery==5.1.2
+redis==3.5.3
+pika==1.2.0
+pytest==6.2.4
+pytest-django==4.4.0
+flake8==3.9.2
